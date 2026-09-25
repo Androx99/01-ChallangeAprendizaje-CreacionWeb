@@ -1,0 +1,3 @@
+URL DE LA WEB
+
+http://bucket-challange-terraform-challange-web-02.s3-website-us-east-1.amazonaws.com
